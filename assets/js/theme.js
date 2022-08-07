@@ -148,7 +148,7 @@ $(document).ready(function() {
 });
 
 //Preloder
-var loader = document.getElementById("preloder");
-window.addEventListener("load", function(){
-  loader.style.display = "none";
+var preloader = document.getElementById("preloder");
+window.addEventListener('load', function(){
+  preloader.style.display = "none";
 })

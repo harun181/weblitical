@@ -1133,7 +1133,7 @@ a.text-dark:hover, a.text-dark:focus {
 /*Preloder*/
 #preloder{
   background: rgb(255, 255, 255) url(../../Weblitical/Logo-T.png) no-repeat center center;
-  background-size: 10%;
+  background-size: 15%;
   height: 100vh;
   width: 100%;
   position: fixed;
