@@ -1130,6 +1130,16 @@ a.text-dark:hover, a.text-dark:focus {
   background-color: #CE2424;
 }
 
+/*Preloder*/
+#preloder{
+  background: rgb(255, 255, 255) url(../../Weblitical/Logo-T.png) no-repeat center center;
+  background-size: 10%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
 
 @media (min-width: 576px) {
   .navbar-expand-sm .navbar-nav {
