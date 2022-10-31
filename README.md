@@ -1,14 +1,10 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
 Weblitical is a Digital IT Farm that will help you to start your business process. It provides a business naming service, UI/UX, Graphics Design, Web Design & Development, and SEO services.
+<br>
+[Preview Here](https://harun181.github.io/weblitical/html/index.html)
 
 ### Built With
 
