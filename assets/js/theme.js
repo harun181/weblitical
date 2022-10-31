@@ -149,6 +149,6 @@ $(document).ready(function() {
 
 //Preloder
 var preloader = document.getElementById("preloder");
-window.addEventListener('load', function(){
+window.addEventListener("load", function(){
   preloader.style.display = "none";
 })
