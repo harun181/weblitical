@@ -49,7 +49,7 @@ Weblitical is a Digital IT Farm that will help you to start your business proces
 ### :camera: Screenshots
 
 <div align="center">
-  <img src="../assets/img/cover.png" alt="screenshot" />
+  <img src="https://github.com/harun181/weblitical/blob/main/assets/img/cover.png?raw=true" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
