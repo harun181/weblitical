@@ -1,125 +1,268 @@
-<!-- ABOUT THE PROJECT -->
+<div align="center">
+  <h1>Weblitical</h1>
 
-## About The Project
+<!-- Badges -->
+<p>
+  <a href="https://github.com/harun181/weblitical/tree/v.1.0.0/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  </a>
+  <a href="https://github.com/harun181/weblitical/graphs/commit-activity">
+    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+  </a>
+  <a href="https://github.com/harun181/weblitical/network/members">
+    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  </a>
+  <a href="https://github.com/harun181/weblitical/stargazers">
+    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  </a>
+  <a href="https://github.com/harun181/weblitical/issues/">
+    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  </a>
+  <a href="https://github.com/harun181/weblitical/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  </a>
+</p>
+
+<h4>
+    <a href="https://harun181.github.io/weblitical/html/index.html">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/harun181/weblitical/tree/v.1.0.0">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/harun181/weblitical/tree/v.1.0.0/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/harun181/weblitical/tree/v.1.0.0/issues/">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
+<!-- About the Project -->
+
+## :star2: About the Project
 
 Weblitical is a Digital IT Farm that will help you to start your business process. It provides a business naming service, UI/UX, Graphics Design, Web Design & Development, and SEO services.
 <br>
 [Preview Here](https://harun181.github.io/weblitical/html/index.html)
 
-### Built With
+<!-- Screenshots -->
 
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+### :camera: Screenshots
 
-<!-- GETTING STARTED -->
+<div align="center">
+  <img src="../assets/img/cover.png" alt="screenshot" />
+</div>
 
-## Getting Started
+<!-- TechStack -->
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### :space_invader: Tech Stack
 
-### Prerequisites
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://nextjs.org/">Next.js</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+  </ul>
+</details>
 
-This is an example of how to list things you need to use the software and how to install them.
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://go.dev/">Golang</a></li>
+    <li><a href="https://nestjs.com/">Nest.js</a></li>
+    <li><a href="https://socket.io/">SocketIO</a></li>
+    <li><a href="https://www.prisma.io/">Prisma</a></li>
+    <li><a href="https://www.apollographql.com/">Apollo</a></li>
+    <li><a href="https://graphql.org/">GraphQL</a></li>
+  </ul>
+</details>
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://redis.io/">Redis</a></li>
+    <li><a href="https://neo4j.com/">Neo4j</a></li>
+    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+  </ul>
+</details>
 
-### Installation
+<details>
+<summary>DevOps</summary>
+  <ul>
+    <li><a href="https://www.docker.com/">Docker</a></li>
+    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
+    <li><a href="https://circleci.com/">CircleCLI</a></li>
+  </ul>
+</details>
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
+<!-- Features -->
 
-<!-- USAGE EXAMPLES -->
+### :dart: Features
 
-## Usage
+- Feature 1
+- Feature 2
+- Feature 3
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- Env Variables -->
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+### :key: Environment Variables
 
-<!-- ROADMAP -->
+To run this project, you will need to add the following environment variables to your .env file
 
-## Roadmap
+`API_KEY`
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
+`ANOTHER_API_KEY`
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+<!-- Getting Started -->
 
-<!-- CONTRIBUTING -->
+## :toolbox: Getting Started
 
-## Contributing
+<!-- Prerequisites -->
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+### :bangbang: Prerequisites
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+This project uses Yarn as package manager
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+```bash
+ npm install --global yarn
+```
 
-<!-- LICENSE -->
+<!-- Installation -->
 
-## License
+### :gear: Installation
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Install my-project with npm
 
-<!-- CONTACT -->
+```bash
+  yarn install my-project
+  cd my-project
+```
 
-## Contact
+<!-- Running Tests -->
+
+### :test_tube: Running Tests
+
+To run tests, run the following command
+
+```bash
+  yarn test test
+```
+
+<!-- Run Locally -->
+
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/harun181/weblitical/tree/v.1.0.0
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  yarn start
+```
+
+<!-- Deployment -->
+
+### :triangular_flag_on_post: Deployment
+
+To deploy this project run
+
+```bash
+  yarn deploy
+```
+
+<!-- Usage -->
+
+## :eyes: Usage
+
+Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
+
+```javascript
+import Component from "my-project";
+
+function App() {
+  return <Component />;
+}
+```
+
+<!-- Roadmap -->
+
+## :compass: Roadmap
+
+- [x] Todo 1
+- [ ] Todo 2
+
+<!-- Contributing -->
+
+## :wave: Contributing
+
+<a href="https://github.com/harun181/weblitical/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+</a>
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+<!-- Code of Conduct -->
+
+### :scroll: Code of Conduct
+
+Please read the [Code of Conduct](https://github.com/harun181/weblitical/blob/master/CODE_OF_CONDUCT.md)
+
+<!-- FAQ -->
+
+## :grey_question: FAQ
+
+- Question 1
+
+  - Answer 1
+
+- Question 2
+
+  - Answer 2
+
+<!-- License -->
+
+## :warning: License
+
+Distributed under the no License. See LICENSE.txt for more information.
+
+<!-- Contact -->
+
+## :handshake: Contact
 
 Your Name - [@tutul181](https://twitter.com/tutul181) - mdtutul763@gmail.com
 
 Project Link: [https://github.com/harun181/weblitical](https://github.com/harun181/weblitical)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- Acknowledgments -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/harun181/weblitical/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/harun181/weblitical/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/harun181/weblitical/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/harun181/weblitical/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/posts/harun181_project-digitalmarketing-activity-6992936913645035520-wtvn?utm_source=share&utm_medium=member_desktop
-[product-screenshot]: images/screenshot.png
-[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
-[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[vue-url]: https://vuejs.org/
-[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[angular-url]: https://angular.io/
-[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[svelte-url]: https://svelte.dev/
-[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[laravel-url]: https://laravel.com
-[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[bootstrap-url]: https://getbootstrap.com
-[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[jquery-url]: https://jquery.com
+## :gem: Acknowledgements
+
+Use this section to mention useful resources and libraries that you have used in your projects.
+
+- [Shields.io](https://shields.io/)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
+- [Readme Template](https://github.com/othneildrew/Best-README-Template)
